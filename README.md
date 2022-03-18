@@ -1,1 +1,1 @@
-# practicaJacascriptPlatzi
+# practicaJavascriptPlatzi
